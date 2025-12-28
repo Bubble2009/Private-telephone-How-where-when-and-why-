@@ -1,1 +1,104 @@
-# Private-telephone-How-where-when-and-why-
+# Telefono privato (anonimo)
+
+In questi giorno mi stanno chiedendo se e come poter avere e usare un telefono "Anonimo".<br>
+Ho pensato di scrivere quì le mie considerazioni in modo da renderle accessibili a tutti.
+
+## L'anonimato non esiste!!
+
+Iniziamo a dire che nella telefonia, l'anonimato non esiste.<br>
+Un telefono ha un seriale (IMEI) univoco. Ua sim (o eSim) avrà un seriale (IMSI) e questi duo codici andranno inviati ad un ripetitore che conoscerà la vostra posizione.<br>
+
+### **Un telefono ANONIMO, non può esistere!**<br>
+
+Una volta precisato questo punto, vediamo alcune considerazioni su come poter "creare" un telefono "pseudonimo" e di come poterlo mantenere.
+
+## Marche, modelli, ROM e grandi spioni
+
+Mi spiace per tutti gli amanti del *melafonino*, ma un iPhone non è adatto per i nostri scopi.<br>
+Questo perché un iPhone dipende al 100% dall'ecosistema Apple e tutto transiterà comunque dai loro server.<br>
+Browser alternativi, VPN, TOR o similari, su un melafonino, sono comunque palliativi visto che tutto il traffico internet passerà inesorabilmente da Safari.
+
+Abbandonata quindi la mela morsicata, vediamo i problemi di **BigG**. Ora, non crediate che Google sia meglio solo perchè Android è basato su linux anche perchè anche iOS ha Unix come sottostante. Oltre a questo, il framework di Google sa esattamente tutto quello che fate con il vostro smartphone.<br>
+Cosa fare allora? Come possiamo slegarci da questi spioni?
+
+### ROM alternative
+
+Come forse già saprete, alcuni telefoni Android si possono modificare installando ROM alternative.<br>
+Per capire se un vostro dispositivo può essere modificato, fate riferimento al sito che è da sempre un punto di riferimento per le operazioni di modding degli smartphone: [:link: XDA](https://www.xda-developers.com/).<br>
+Negli anni il sito si è evoluto, ma rimane comunque il punto di riferimento presentando tutte le novità su [:link *custom ROM](https://www.xda-developers.com/tag/custom-rom/), ma per vedere se il vostro smartphone è modificabile, il posto giusto da consultare è [:link: XDA Forum](https://xdaforums.com/all-forums-by-manufacturer).
+
+In linea di massima, quelle di seguito sono le ROM che maggiormente tutelano la vostra privacy.<br>
+L'ordine in cui le posiziono, indicano una preferenza personale e mi riservo di variarlo nel corso del tempo.
+
+1. GrapheneOS [:link: grapheneos.org](https://grapheneos.org/)
+2. LineageOS [:link: lineageos.org](https://lineageos.org/)
+3. e/OS [:link: e.foundation](https://e.foundation/e-os/)
+
+### Attenzione, queste ROM vi permettono di avere Privacy, **non Anonimato**.
+
+Per il momento non mi dilungo su queste differenze, ma mi premeva favi capire che esistono varie soluzioni con vari livelli di "sicurezza".
+
+### Vivere senza BigG !
+
+Ora però, vendiamo al punto cruciale e spinoso della faccenda.<br>
+**Avete un telefono senza Google, questo cosa vuole dire?**<br>
+Vuole dire che molte (alcune) delle applicazioni che siete abituati ad utilizzare, non funzioneranno più o funzioneranno male.<br>
+Molte applicazioni per il vostro telefono Android, si appoggiano ai servizi di Google e senza di essi, non funzionano più.<br>
+Per questo motivo, quando qualcuno mi dice che vuole sganciarsi da Google, gli sconsiglio vivamente di fare un passaggio radicale, perchè, per quanto possa voler diventare massimalista, non è detto che possa riuscirci subito.<br>
+Come fare allora? Ecco in genere cosa consiglio:
+
+1. recuperare un secondo telefono (anche vecchio e mezzo scassato) con cui fare le prime prove.<br>
+   Deve ovviamente essere un telefono compatibile con una delle ROM sopra descritte;
+2. provare varie e differenti configurazioni, passare un po' per volta tutti i servizi del telefono principale nel secondario per verificare che funzionino.<br>
+   Specifico che nessuno ci riuscirà al primo tentativo e che il telefono secondario finirà per essere formattato più e più volte prima di trovare una quadra perfetta;
+3. solo dopo molti tentativi, uno potrà decidere di passare completamente ad un telefono senza google.
+
+Ci tengo però a precisare quanto segue:
+
+* Su un telefono senza google, non potete caricare la vostra posta di Gmail, al massimo lo potrete fare con un altro client di posta elettronica, ma sarebbe comunque bene non farlo;
+* Nel caso riscontriate che alcune app di cui necessitate richiedono assolutamente il framework di google per funzionare, avete due possibilità:<br>
+  1. quando il vostro telefono degoogled diventerà il principale, potrete tenere un secondo telefono iPhone o Google per quelle app;
+  2. potete provare con GrapheneOS che permette di utilizzare il framework di Google in una sandbox, pertanto separato da tutto il resto del telefono.
+* Il vostro sarà un telefono **Privacy Ordiented** ma non sarà assolutamente un telefono *Anonimo*
+
+## Telefono Anonimo
+
+Come abbiamo visto, non è possibile avere un telefono anonimo, ma vediamo ora se e come possiamo "*provare*" ad avere un telefono fuori dagli schemi.
+
+Per avere un telefono fuori dagli schemi, che non sia riconducibile a noi, queste sono i passaggi **minimi** da seguire:
+
+* il telefono andrà comprato in contati di persona, non online, non su piattaforme di vendita KYC.<br>
+  Dobbiamo evitare assolutamente qualsiasi legame tra noi e quel telefono.
+* non potete utilizzare un vostro vecchio telefono in quanto il seriale del telefono (IMEI) è già stato associato ad una Sim intestata a voi o ad un vostro familiare;
+* una volta reperito un telefono adatto, dovrete installare la ROM privacy oriented possibilmente offline;
+* dovrete procurarvi una Sim o una eSim anonima, acquistatola nel modo più anonimo possibile, quindi occhio a: pagamento, spedizione, email utilizzata, indirizzo IP utilizzato per l'acquisto;
+
+Ora, ammettiamo che voi siate riusciti a effettuare tutti i passaggi di cui sopra, ecco cosa dovrete fare per mantenere quel telefono fuori dagli schemi (e vi assicuro che non sarà facile):
+
+* Quel telefono **NON dovrà mai** essere collegato ad una Wifi riconducibile a voi;
+* Quel telefono **NON dovrà mai** essere acceso vicino al vostro telefono personale.<br>
+  Questo perchè se viaggiaste con i vostri due telefoni accessi costantemente, si collegherebbero alle medesime celle e sarebbe un gioco da ragazzi associarlo a voi.<br>
+  Attenzione però, che non basta spegnere uno ed accendere l'altro. Ok spegnere il vostro personale, ma dovere aspettare un po' di tempo (e non sempre il medesimo lasso di tempo) e spostarvi geograficamente prima di accendere il vostro telefono *anonimo*. La stessa cosa sarà da fare quando lo riaccendete.<br>
+  Meglio ancora sarebbe poter lasciare il proprio telefono personale in un punto, spostarsi con l'altro telefono (ma non sempre nello stesso punto) e poi accendere il telefono *anonimo*;
+* La sim di quel telefono non dovrà mai essere ricaricata o appoggiata ad un vostro conto bancario.<br>
+  Se effettuerete ricariche da tabaccaio per contanti, sarebbe bene non avere il vostro telefono personale appresso a voi (o per lo meno il telefono acceso).
+* Non dovrete mai effettuare chiamate tra i due telefoni;
+* Per spostare il vostro telefono *anonimo* dovreste dotarvi di una una schermatura per evitare accensioni non volute.<br>
+  La stessa schermatura dovreste adottarla per la ricarica notturna. <br> Come fare tutto questo:
+  * esistono borse che schermano il segnale tipo [:link: questa in vendita su Amazon](https://amzn.to/4b5OuOH), ma le recensioni dicono che in sei mesi perde la schermatura;
+  * potete cimentarvi nel DIY (io non l'ho mai fatto) facendo una semplice [ricerca in internet](https://duckduckgo.com/?q=diy+faraday+smartphone+bag&ia=web);
+  * a questo proposito, però, prossimamente chiederò consiglio ad un mio contatto nella Polizia Postale e vi dirò cosa mi risponderà;
+* Non dovrete mai utilizzare lo stesso account di un social o di altri servizi KYC, light KYC o simili su entrambe i vostri telefoni.
+
+Come potete vedere, non è affatto facile mantenere l'anonimato di un telefono.
+
+## Vi serve un telefono *anonimo*?
+Secondo me no!<br>
+Non ho ancora conosciuto una singola persona che mi abbia convinto di dover possedere un telefono anonimo.<br>
+Magari qualcuno di voi mi convincerà del contrario, ma per il momento, dopo aver detto più o meno quanto ho scritto quì sopra, tutti hanno concordato con me sul fatto che **quello che in realtà serve ad una persona è un telefono privacy oriented** e non un telefono anonimo.
+
+## Ringraziamenti
+Ringrazio Rix per avermi stimolato a scrivere queste righe e invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire questo scritto.<br>
+Ho bittato tutto già di getto, pertanto segnatemi anche qualsiasi tipo di errore.<br>
+Per contatti diretti su Telegram: [Bubble2009](https://t.me/Contact_Bubble_bot).
+

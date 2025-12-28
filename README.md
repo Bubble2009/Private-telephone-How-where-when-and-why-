@@ -1,63 +1,68 @@
-# Telefono privato (anonimo)
+# Telefono privato (*anonimo*)
 
-In questi giorno mi stanno chiedendo se e come poter avere e usare un telefono "Anonimo".<br>
-Ho pensato di scrivere quì le mie considerazioni in modo da renderle accessibili a tutti.
+In questi giorni mi stanno chiedendo se e come poter avere e usare un telefono "*Anonimo*", così ho pensato di scrivere quì le mie considerazioni in modo da renderle accessibili a tutti.
 
 ## L'anonimato non esiste!!
 
 Iniziamo a dire che nella telefonia, l'anonimato non esiste.<br>
-Un telefono ha un seriale (IMEI) univoco. Ua sim (o eSim) avrà un seriale (IMSI) e questi duo codici andranno inviati ad un ripetitore che conoscerà la vostra posizione.<br>
+Un telefono ha un seriale (IMEI) univoco. Ua sim (o eSim) avrà un seriale (IMSI) e questi due codici andranno inviati ad un ripetitore che conoscerà la vostra posizione.<br>
+Questi due codici, andranno a formare una **identità** sulla rete. Questa identità può essere **pseudonima**, ma non *anonima*.
 
-### **Un telefono ANONIMO, non può esistere!**<br>
+### **Un telefono *ANONIMO*, non può esistere!**<br>
 
 Una volta precisato questo punto, vediamo alcune considerazioni su come poter "creare" un telefono "pseudonimo" e di come poterlo mantenere.
 
 ## Marche, modelli, ROM e grandi spioni
 
-Mi spiace per tutti gli amanti del *melafonino*, ma un iPhone non è adatto per i nostri scopi.<br>
+Mi spiace per tutti gli amanti del *melafonino*, ma un iPhone non è adatto per questo scopo.<br>
 Questo perché un iPhone dipende al 100% dall'ecosistema Apple e tutto transiterà comunque dai loro server.<br>
 Browser alternativi, VPN, TOR o similari, su un melafonino, sono comunque palliativi visto che tutto il traffico internet passerà inesorabilmente da Safari.
 
-Abbandonata quindi la mela morsicata, vediamo i problemi di **BigG**. Ora, non crediate che Google sia meglio solo perchè Android è basato su linux anche perchè anche iOS ha Unix come sottostante. Oltre a questo, il framework di Google sa esattamente tutto quello che fate con il vostro smartphone.<br>
-Cosa fare allora? Come possiamo slegarci da questi spioni?
+Abbandonata quindi la mela morsicata, vediamo i problemi di **BigG**.<br> Ora, non crediate che Google sia meglio solo perchè Android è basato su linux anche perchè anche iOS ha Unix come sottostante.<br> Oltre a questo, il framework di Google, sa esattamente tutto quello che fate con il vostro smartphone.<br>
+Cosa fare allora?<br> Come possiamo slegarci da questi spioni?
 
 ### ROM alternative
 
 Come forse già saprete, alcuni telefoni Android si possono modificare installando ROM alternative.<br>
 Per capire se un vostro dispositivo può essere modificato, fate riferimento al sito che è da sempre un punto di riferimento per le operazioni di modding degli smartphone: [:link: XDA](https://www.xda-developers.com/).<br>
-Negli anni il sito si è evoluto, ma rimane comunque il punto di riferimento presentando tutte le novità su [:link *custom ROM](https://www.xda-developers.com/tag/custom-rom/), ma per vedere se il vostro smartphone è modificabile, il posto giusto da consultare è [:link: XDA Forum](https://xdaforums.com/all-forums-by-manufacturer).
+Negli anni il sito si è evoluto ed ha inizato a dedicarsi anche ad altri settori, ma rimane comunque il punto di riferimento presentando tutte le novità su [:link: custom ROM](https://www.xda-developers.com/tag/custom-rom/), ma per vedere se il vostro smartphone è modificabile, il posto giusto da consultare è [:link: XDA Forum](https://xdaforums.com/all-forums-by-manufacturer).
 
-In linea di massima, quelle di seguito sono le ROM che maggiormente tutelano la vostra privacy.<br>
+Quelle di seguito sono le ROM che maggiormente tutelano la vostra privacy.<br>
 L'ordine in cui le posiziono, indicano una preferenza personale e mi riservo di variarlo nel corso del tempo.
 
 1. GrapheneOS [:link: grapheneos.org](https://grapheneos.org/)
 2. LineageOS [:link: lineageos.org](https://lineageos.org/)
 3. e/OS [:link: e.foundation](https://e.foundation/e-os/)
-
-### Attenzione, queste ROM vi permettono di avere Privacy, **non Anonimato**.
-
+   
 Per il momento non mi dilungo su queste differenze, ma mi premeva favi capire che esistono varie soluzioni con vari livelli di "sicurezza".
 
+### Attenzione, queste ROM vi permettono di avere Privacy, **non Anonimato**.
+Vediamo ora se e come possiamo utilizzare queste rom su un dispositivo.
 ### Vivere senza BigG !
+Questo è il punto più cruciale e spinoso di questo passaggio. Staccarci da BigG.<br>
+Google (ma non solo Google) ci ha abituati a millemila servizi "*gratuiti*". <br>
+Al giorno d'oggi, però, di gratuito non essite nulla. Per Goolge, infatti **il prodotto siete voi**; utilizzando i servizi di BigG, voi trasmettete in ogni momento dei dati che vengono utilizzati a scopo commerciale.<br>
+Giusto per farvi un esempio, *Google Maps* o *Mappe* di Apple, non vi indicano la strada migliore, ma vi indicano la strada che passa davanti ad attività che pagano la pubblicità. Provare per credere!.
 
-Ora però, vendiamo al punto cruciale e spinoso della faccenda.<br>
-**Avete un telefono senza Google, questo cosa vuole dire?**<br>
+**Avete un telefono senza Google, cosa vuole dire?**<br>
 Vuole dire che molte (alcune) delle applicazioni che siete abituati ad utilizzare, non funzioneranno più o funzioneranno male.<br>
-Molte applicazioni per il vostro telefono Android, si appoggiano ai servizi di Google e senza di essi, non funzionano più.<br>
-Per questo motivo, quando qualcuno mi dice che vuole sganciarsi da Google, gli sconsiglio vivamente di fare un passaggio radicale, perchè, per quanto possa voler diventare massimalista, non è detto che possa riuscirci subito.<br>
+Questo perchè alcune applicazioni per il vostro telefono Android, si appoggiano ai servizi di Google e senza di essi, non funzionano più.<br>
+Per questo motivo, quando qualcuno mi dice che vuole sganciarsi da Google, gli sconsiglio vivamente di fare un passaggio radicale, perchè, per quanto possa voler diventare massimalista, non è detto che possa riuscirci subito.
+
 Come fare allora? Ecco in genere cosa consiglio:
 
 1. recuperare un secondo telefono (anche vecchio e mezzo scassato) con cui fare le prime prove.<br>
-   Deve ovviamente essere un telefono compatibile con una delle ROM sopra descritte;
+   Deve ovviamente essere un telefono compatibile con una delle ROM sopra elencate;
 2. provare varie e differenti configurazioni, passare un po' per volta tutti i servizi del telefono principale nel secondario per verificare che funzionino.<br>
    Specifico che nessuno ci riuscirà al primo tentativo e che il telefono secondario finirà per essere formattato più e più volte prima di trovare una quadra perfetta;
-3. solo dopo molti tentativi, uno potrà decidere di passare completamente ad un telefono senza google.
+3. solo dopo molti tentativi, uno potrà decidere di passare completamente ad un telefono senza google.<br>
+Al momento del passaggio, potrà valutare se acquistare un telfono nuovo, magari un Pixel per installare GrapheneOS.
 
 Ci tengo però a precisare quanto segue:
 
 * Su un telefono senza google, non potete caricare la vostra posta di Gmail, al massimo lo potrete fare con un altro client di posta elettronica, ma sarebbe comunque bene non farlo;
 * Nel caso riscontriate che alcune app di cui necessitate richiedono assolutamente il framework di google per funzionare, avete due possibilità:<br>
-  1. quando il vostro telefono degoogled diventerà il principale, potrete tenere un secondo telefono iPhone o Google per quelle app;
+  1. quando il vostro telefono degoogled diventerà il principale, potrete tenere un secondo telefono iPhone o Google esclusivamente per quelle app;
   2. potete provare con GrapheneOS che permette di utilizzare il framework di Google in una sandbox, pertanto separato da tutto il resto del telefono.
 * Il vostro sarà un telefono **Privacy Ordiented** ma non sarà assolutamente un telefono *Anonimo*
 
@@ -65,13 +70,12 @@ Ci tengo però a precisare quanto segue:
 
 Come abbiamo visto, non è possibile avere un telefono anonimo, ma vediamo ora se e come possiamo "*provare*" ad avere un telefono fuori dagli schemi.
 
-Per avere un telefono fuori dagli schemi, che non sia riconducibile a noi, queste sono i passaggi **minimi** da seguire:
+Per avere un telefono fuori dagli schemi, che non sia riconducibile a noi, questi sono i passaggi **minimi** da seguire:
 
-* il telefono andrà comprato in contati di persona, non online, non su piattaforme di vendita KYC.<br>
-  Dobbiamo evitare assolutamente qualsiasi legame tra noi e quel telefono.
+* il telefono andrà comprato in contati di persona, non online, non su piattaforme di vendita KYC perchè dobbiamo evitare assolutamente qualsiasi legame tra noi e quel telefono.
 * non potete utilizzare un vostro vecchio telefono in quanto il seriale del telefono (IMEI) è già stato associato ad una Sim intestata a voi o ad un vostro familiare;
-* una volta reperito un telefono adatto, dovrete installare la ROM privacy oriented possibilmente offline;
-* dovrete procurarvi una Sim o una eSim anonima, acquistatola nel modo più anonimo possibile, quindi occhio a: pagamento, spedizione, email utilizzata, indirizzo IP utilizzato per l'acquisto;
+* una volta reperito un telefono adatto, dovrete installare la ROM privacy oriented possibilmente offline o in una location e con una connessione internet non riconducibile a voi;
+* dovrete procurarvi una Sim o una eSim anonima, acquistatola nel modo più anonimo possibile, quindi occhio a: pagamento, spedizione, email utilizzata e indirizzo IP (connessione internet) utilizzato per l'acquisto;
 
 Ora, ammettiamo che voi siate riusciti a effettuare tutti i passaggi di cui sopra, ecco cosa dovrete fare per mantenere quel telefono fuori dagli schemi (e vi assicuro che non sarà facile):
 
@@ -99,6 +103,6 @@ Magari qualcuno di voi mi convincerà del contrario, ma per il momento, dopo ave
 
 ## Ringraziamenti
 Ringrazio Rix per avermi stimolato a scrivere queste righe e invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire questo scritto.<br>
-Ho bittato tutto già di getto, pertanto segnatemi anche qualsiasi tipo di errore.<br>
+Ho buttato tutto giù di getto, pertanto segnatemi anche qualsiasi tipo di errore.<br>
 Per contatti diretti su Telegram: [Bubble2009](https://t.me/Contact_Bubble_bot).
 

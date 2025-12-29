@@ -30,7 +30,7 @@ Negli anni il sito si è evoluto ed ha inizato a dedicarsi anche ad altri settor
 Quelle di seguito sono le ROM che maggiormente tutelano la vostra privacy.<br>
 L'ordine in cui le posiziono, indicano una preferenza personale e mi riservo di variarlo nel corso del tempo.
 
-1. GrapheneOS [:link: grapheneos.org](https://grapheneos.org/)
+1. GrapheneOS [:link: grapheneos.org](https://grapheneos.org/) [^1]
 2. LineageOS [:link: lineageos.org](https://lineageos.org/)
 3. e/OS [:link: e.foundation](https://e.foundation/e-os/)
    
@@ -106,3 +106,4 @@ Ringrazio Rix per avermi stimolato a scrivere queste righe e invito chiunque vog
 Ho buttato tutto giù di getto, pertanto segnatemi anche qualsiasi tipo di errore.<br>
 Per contatti diretti su Telegram: [Bubble2009](https://t.me/Contact_Bubble_bot).
 
+[^1]: A proposito di GrapheneOS vi lascio il link alla guida redatta da [Turtlecute](https://github.com/Turtlecute33]) e pubblicata sul suo sito: [:link turtlecute.org/graphene/](https://turtlecute.org/graphene/)

@@ -5,7 +5,7 @@ In questi giorni mi stanno chiedendo se e come poter avere e usare un telefono "
 ## L'anonimato non esiste!!
 
 Iniziamo a dire che nella telefonia, l'anonimato non esiste.<br>
-Un telefono ha un seriale (IMEI) univoco. Ua sim (o eSim) avrà un seriale (IMSI) e questi due codici andranno inviati ad un ripetitore che conoscerà la vostra posizione.<br>
+Un telefono ha un seriale (IMEI) univoco. Una sim (o eSim) avrà un seriale (IMSI) e questi due codici andranno inviati ad un ripetitore che conoscerà la vostra posizione.<br>
 Questi due codici, andranno a formare una **identità** sulla rete. Questa identità può essere **pseudonima**, ma non *anonima*.
 
 ### **Un telefono *ANONIMO*, non può esistere!**<br>

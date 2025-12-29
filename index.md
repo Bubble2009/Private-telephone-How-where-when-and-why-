@@ -1,3 +1,8 @@
+---
+title: Telefono privato? Dove? Come? Quando? Perchè?
+author: HkK2003
+---
+
 # Telefono privato (*anonimo*)
 
 In questi giorni in molti mi hanno chiesto se e come poter avere ed usare un telefono "*Anonimo*", così ho pensato di scrivere quì le mie considerazioni in modo da renderle accessibili a tutti.

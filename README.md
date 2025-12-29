@@ -106,4 +106,4 @@ Ringrazio Rix per avermi stimolato a scrivere queste righe e invito chiunque vog
 Ho buttato tutto giù di getto, pertanto segnatemi anche qualsiasi tipo di errore.<br>
 Per contatti diretti su Telegram: [Bubble2009](https://t.me/Contact_Bubble_bot).
 
-[^1]: A proposito di GrapheneOS vi lascio il link alla guida redatta da [Turtlecute](https://github.com/Turtlecute33]) e pubblicata sul suo sito: [:link turtlecute.org/graphene/](https://turtlecute.org/graphene/)
+[^1]: A proposito di GrapheneOS vi lascio il link alla guida redatta da [Turtlecute](https://github.com/Turtlecute33]) e pubblicata sul suo sito: [:link: turtlecute.org/graphene/](https://turtlecute.org/graphene/)

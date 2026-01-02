@@ -69,6 +69,55 @@ Mi sento in dovere di precisare quanto segue:
   2. potete provare con GrapheneOS che permette di utilizzare il framework di Google in una sandbox, pertanto separato da tutto il resto del telefono.
 * Il vostro sarà un telefono **Privacy Ordiented** ma non sarà assolutamente un telefono *Anonimo*
 
+## App Store da usare su un telefono *privacy oriented*
+
+Una volta approntato il vostro telefono *privacy oriented*, dovete mantenerlo il più possibile al pulito da app proprietarie che potrebbero tracciare il vostro operato.<br>
+
+Come fare quindi ad installare le vostre applicazioni preferite?<br>
+
+Dobbiamo appoggiarci a degli store alternativi per installare le applicazioni.<br>
+Per mantenere il telefono più pulito possibile, dobbiamo separare la parte che terremo privata ed OpenSource da una seconda parte che "*sporcheremo*" con applicazioni closed source.<br>
+Quasi tutti i telefoni android permettono di creare differenti utenti, ma per utilizzare applicazioni "*closed*" dovremo sempre passare da un utente all'altro. Vedremo, invece, in seguito come poter creare due spazi separati che possono lavorare contemporaneamente.<br>
+Per questo motico, pertanto, una volta installato un gestore di app alternativo, prima di lasciarvi installazioni sfrenate, attendete di creare uno spazio secondario per separare le applicazione ClosedSource come ad esempio WhatsApp.
+
+#### App Store alternativi per applicazioni OpenSource
+
+Di seguito vi elenco alcuni software che vi permetteranno di installare app OpenSource.<br>
+Elenco queste app nel mio personale ordine di preferenza, che però non ne determina il livello di "semplicità".
+
+1. **Obtainium** (:link: obtainium.imranr.dev)[https://obtainium.imranr.dev/]<br>
+   Questa app pesca da molte sorgenti, ma la cosa più "bella" è tra le vari sorgenti troviamo direttamente i repositori di GitHub, GitLab e Codeberg, peranto direttametne i repositori degli sviuppatori.<br>
+   Questo programma lavora molto bene in sinergia con AppVerifier (:link: github.com/AppVerifier)[https://github.com/soupslurpr/AppVerifier].<br>
+   L'utilizzo di questa applicazione è parecchio "ostico" pertanto è stato messo a disposizione un sito da cui scaricare alcune configurazioni precompilate: (:link: https://apps.obtainium.imranr.dev/)[https://apps.obtainium.imranr.dev/];
+2. **Droid-ify** (:link: droidify.eu.org/)[https://droidify.eu.org/]<br>
+   Fondamentalmente questa app è un semplice frontend di F-Droid, ma in più introduce un processo di verifica che garantisce l'integrità della app disponibili su F-Droiod;
+3. **F-Droid** (:link: f-droid.org)[https://f-droid.org/].
+
+Una volta installato uno app store alternativo (anche più di uno), la prima applicazione che vi suggerisco di installare è **Shelter** (:link: gitea.angry.im/PeterCxy/Shelter)[https://gitea.angry.im/PeterCxy/Shelter] che ci permette di creare uno spazio secondario nell'userspace dell'utente primario che può funzionare simultaneamente.<br>
+Per la configurazione di questa applicazione vi rimando alla guida redatta da Turtlecute (:link: turtlecute.org/#shelter)[https://turtlecute.org/android/#shelter].
+
+Una volta creato questo spazio, dovrete ricordarvi di separare le applicazioni Open da quelle Closed.<br>
+Come fare?<br>
+Fondamentalmente, gli app store visti in precedenza, non installeranno applicazioni Closed (se non con particolari forzature).<br>
+Per poter installare queste applicazioni, vi servirà una ulteriore applicazione: **Aurora Store** (:link: store.auroraoss.com/)[https://store.auroraoss.com/].<br>
+Questa applicazione vi permette (con qualche limitazione) di installare applicazioni presenti nel Google Play Store, ma **senza dover fare il login con il vostro utente google**.<br>
+Aurora Store è un applicazione OpenSource che vi permette di installare applicazioni ClosedSource. Il mio suggerimento è di utilizzare questo programma solo nello spazio secondario creato con Shelter.<br>
+Attenzione!! Le applicazioni installate con Aurora Store che richiedono i *Google play service*, non funzioneranno sul vostro dispositivo ungoogled.<br>
+Aurora Store, utilizzato in maniera anonima, utilizza account google fittizi normalmente geolocalizzati in paesi differenti dall'Italia, pertanto potrebbe non permettervi di installare applicazioni geolocalizzate.
+
+## Tor, VPN ed altro ancora
+
+Dipendentemente dal caso d'uso del vostro telefono, potrebbe servirvi uno strato di "*anonimato*" in più.<br>
+Le strade percorribili sono molteplici. Da un semplice DNS open, ad una istanza TOR da avviare all'occorrenza fino a far transitare tutto il traffico dati del telefono sotto TOR o sotto una VPN.
+
+Questo argomento esula un po' dallo scopo di questa guida, pertanto ne farà solo un accenno.
+
+* Per una istanza TOR da avviare all'occorrenza, credo ceh **Orbot** rimanga la scelta migliore: (:link: orbot.app)[https://orbot.app/en/];
+* Per far transitare tutto il traffico del telefono sotto TOR, credo che la soluzione migliore sia **InviZible Pro** (:link: invizible.net)[https://invizible.net/en/] che ci permette di gestire anche i DNS;
+* Per la gestione dei DNS, invece, una ottima soluzione è **DNSCrypt** (:link: dnscrypt.org)[https://www.dnscrypt.org/];
+
+Per una descrizione un po' più approfondita su questi argomenti vi rimando sempre alla guida di Turtlecute: (:link: turtlecute.org/#gestione-del-threat-model-tra-i-profili)[https://turtlecute.org/android/#gestione-del-threat-model-tra-i-profili] e per le VPN: (:link: turtlecute.org/#vpn)[https://turtlecute.org/android/#vpn].
+
 ## Telefono Anonimo
 
 Come abbiamo visto, non è possibile avere un telefono anonimo, ma vediamo ora se e come possiamo "*provare*" ad avere un telefono fuori dagli schemi (pseudonimo).

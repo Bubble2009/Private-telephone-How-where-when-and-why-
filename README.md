@@ -94,7 +94,7 @@ Elenco queste app nel mio personale ordine di preferenza, che però non ne deter
 3. **F-Droid** (:link: f-droid.org)[https://f-droid.org/].
 
 Una volta installato uno app store alternativo (anche più di uno), la prima applicazione che vi suggerisco di installare è **Shelter** (:link: gitea.angry.im/PeterCxy/Shelter)[https://gitea.angry.im/PeterCxy/Shelter] che ci permette di creare uno spazio secondario nell'userspace dell'utente primario che può funzionare simultaneamente.<br>
-Per la configurazione di questa applicazione vi rimando alla guida redatta da [Turtlecute](https://github.com/Turtlecute33) (:link: turtlecute.org/#shelter)[https://turtlecute.org/android/#shelter].
+Per la configurazione di questa applicazione vi rimando alla guida redatta da [Turtlecute](https://github.com/Turtlecute33) (:link: turtlecute.org/_shelter)[https://turtlecute.org/android/#shelter].
 
 Una volta creato questo spazio, dovrete ricordarvi di separare le applicazioni Open da quelle Closed.<br>
 Come fare?<br>
@@ -116,7 +116,7 @@ Questo argomento esula un po' dallo scopo di questa guida, pertanto ne farà sol
 * Per far transitare tutto il traffico del telefono sotto TOR, credo che la soluzione migliore sia **InviZible Pro** (:link: invizible.net)[https://invizible.net/en/] che ci permette di gestire anche i DNS;
 * Per la gestione dei DNS, invece, una ottima soluzione è **DNSCrypt** (:link: dnscrypt.org)[https://www.dnscrypt.org/];
 
-Per una descrizione un po' più approfondita su questi argomenti vi rimando sempre alla guida di [Turtlecute](https://github.com/Turtlecute33): (:link: turtlecute.org/#gestione-del-threat-model-tra-i-profili)[https://turtlecute.org/android/#gestione-del-threat-model-tra-i-profili] e per le VPN: (:link: turtlecute.org/#vpn)[https://turtlecute.org/android/#vpn].
+Per una descrizione un po' più approfondita su questi argomenti vi rimando sempre alla guida di [Turtlecute](https://github.com/Turtlecute33): (:link: turtlecute.org/gestione-del-threat-model-tra-i-profili)[https://turtlecute.org/android/#gestione-del-threat-model-tra-i-profili] e per le VPN: (:link: turtlecute.org/vpn)[https://turtlecute.org/android/#vpn].
 
 ## Telefono Anonimo
 

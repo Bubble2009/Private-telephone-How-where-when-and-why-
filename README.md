@@ -26,7 +26,7 @@ Cosa fare allora?<br> Come possiamo slegarci da questi spioni?
 
 Come forse già saprete, alcuni telefoni Android si possono modificare installando ROM alternative.<br>
 Per capire se un vostro dispositivo può essere modificato, fate riferimento al sito che è da sempre un punto di riferimento per le operazioni di modding degli smartphone: [:link: XDA](https://www.xda-developers.com/).<br>
-Negli anni il sito si è evoluto ed ha inizato a dedicarsi anche ad altri settori, ma rimane comunque il punto di riferimento presentando tutte le novità su [:link: custom ROM](https://www.xda-developers.com/tag/custom-rom/), ma per vedere se il vostro smartphone è modificabile, il posto giusto da consultare è [:link: XDA Forum](https://xdaforums.com/all-forums-by-manufacturer).
+Negli anni il sito si è evoluto ed ha iniziato a dedicarsi anche ad altri settori, ma rimane comunque il punto di riferimento presentando tutte le novità su [:link: custom ROM](https://www.xda-developers.com/tag/custom-rom/), ma per vedere se il vostro smartphone è modificabile, il posto giusto da consultare è [:link: XDA Forum](https://xdaforums.com/all-forums-by-manufacturer).
 
 Quelle di seguito sono le ROM che maggiormente tutelano la vostra privacy.<br>
 L'ordine in cui le posiziono, indicano una preferenza personale e mi riservo di variarlo nel corso del tempo.
@@ -74,7 +74,7 @@ Mi sento in dovere di precisare quanto segue:
 * Nel caso riscontriate che alcune app di cui necessitate richiedono assolutamente il framework di google per funzionare, avete due possibilità:<br>
   1. quando il vostro telefono degoogled diventerà il principale, potrete tenere un secondo telefono iPhone o Google esclusivamente per quelle app;
   2. potete provare con GrapheneOS che permette di utilizzare il framework di Google in una sandbox, pertanto separato da tutto il resto del telefono.
-* Il vostro sarà un telefono **Privacy Ordiented** ma non sarà assolutamente un telefono *Anonimo*
+* Il vostro sarà un telefono **Privacy Oriented** ma non sarà assolutamente un telefono *Anonimo*
 
 ## App Store da usare su un telefono *privacy oriented*
 

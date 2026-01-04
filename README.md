@@ -119,11 +119,11 @@ Le strade percorribili sono molteplici. Da un semplice DNS open, ad una istanza 
 
 Questo argomento esula un po' dallo scopo di questa guida, pertanto ne farà solo un accenno.
 
-* Per una istanza TOR da avviare all'occorrenza, credo ceh **Orbot** rimanga la scelta migliore: [:link: orbot.app](https://orbot.app/en/);
+* Per una istanza TOR da avviare all'occorrenza, credo che **Orbot** rimanga la scelta migliore: [:link: orbot.app](https://orbot.app/en/);
 * Per far transitare tutto il traffico del telefono sotto TOR, credo che la soluzione migliore sia **InviZible Pro** [:link: invizible.net](https://invizible.net/en/) che ci permette di gestire anche i DNS;
 * Per la gestione dei DNS, invece, una ottima soluzione è **DNSCrypt** [:link: dnscrypt.org](https://www.dnscrypt.org/);
 
-Per una descrizione un po' più approfondita su questi argomenti vi rimando sempre alla guida di [Turtlecute](https://github.com/Turtlecute33): [:link: turtlecute.org/#gestione-del-threat-model-tra-i-profili](https://turtlecute.org/android/#gestione-del-threat-model-tra-i-profili) e per le VPN: [:link: turtlecute.org/vpn](https://turtlecute.org/android/#vpn).
+Per una descrizione un po' più approfondita su questi argomenti vi rimando sempre alla guida di [Turtlecute](https://github.com/Turtlecute33): [:link: turtlecute.org/#gestione-del-threat-model-tra-i-profili](https://turtlecute.org/android/#gestione-del-threat-model-tra-i-profili) e per le VPN: [:link: turtlecute.org/vpn](https://turtlecute.org/android/#vpn), mentre per analizzare alcuni casi d'uso di TOR e di VPN, vi rimando a quest'altra [:link: mia guida](https://github.com/Bubble2009/TOR-vs-VPN).
 
 ## Telefono Anonimo
 

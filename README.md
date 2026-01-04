@@ -165,8 +165,8 @@ Magari qualcuno di voi mi convincerà del contrario, ma per il momento, dopo ave
 
 ## Ringraziamenti
 
-Ringrazio Rix per avermi stimolato a scrivere queste righe e invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire questo scritto.<br>
-Ho buttato tutto giù di getto, pertanto segnatemi anche qualsiasi tipo di errore.<br>
+Ringrazio Rix per avermi stimolato a scrivere queste righe e invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>
+Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br>
 Per contatti diretti su Telegram: [Bubble2009](https://t.me/Contact_Bubble_bot).
 
 [^1]: A proposito di GrapheneOS vi lascio il link alla guida redatta da [Turtlecute](https://github.com/Turtlecute33) e pubblicata sul suo sito: [:link: turtlecute.org/graphene/](https://turtlecute.org/graphene/)

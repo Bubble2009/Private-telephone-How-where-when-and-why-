@@ -101,7 +101,7 @@ Elenco queste app nel mio personale ordine di preferenza, che però non ne deter
 3. **F-Droid** [:link: f-droid.org](https://f-droid.org/).
 
 Una volta installato uno app store alternativo (anche più di uno), la prima applicazione che vi suggerisco di installare è **Shelter** [:link: gitea.angry.im/PeterCxy/Shelter](https://gitea.angry.im/PeterCxy/Shelter) che ci permette di creare uno spazio secondario nell'userspace dell'utente primario che può funzionare simultaneamente.<br>
-Per la configurazione di questa applicazione vi rimando alla guida redatta da [Turtlecute](https://github.com/Turtlecute33) [:link: turtlecute.org/#shelter](https://turtlecute.org/android/#shelter).
+Per approfondimenti su Shelter, vi rimando a :link:[quest'altra mia guida](Shelter.md) e alla guida redatta da [Turtlecute](https://github.com/Turtlecute33) [:link: turtlecute.org/#shelter](https://turtlecute.org/android/#shelter).
 
 Una volta creato questo spazio, dovrete ricordarvi di separare le applicazioni Open da quelle Closed.<br>
 Come fare?<br>
@@ -164,9 +164,10 @@ Non ho ancora conosciuto una singola persona che mi abbia convinto di *dover* po
 Magari qualcuno di voi mi convincerà del contrario, ma per il momento, dopo aver spiegato più o meno quanto ho scritto quì sopra, tutti hanno concordato con me sul fatto che **quello che in realtà gli serve è un telefono privacy oriented** e non un telefono *anonimo*.
 
 ## Ringraziamenti
+| | |
+| :------- | :--------: |
+|  Ringrazio *Rix* per avermi stimolato a scrivere queste righe e invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto. <br> Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br> Per parlare con me di questa guida, unitevi al :link:[mio gruppo telegram](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |
 
-Ringrazio Rix per avermi stimolato a scrivere queste righe e invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>
-Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br>
-Per contatti diretti su Telegram: [Bubble2009](https://t.me/Contact_Bubble_bot).
+***
 
 [^1]: A proposito di GrapheneOS vi lascio il link alla guida redatta da [Turtlecute](https://github.com/Turtlecute33) e pubblicata sul suo sito: [:link: turtlecute.org/graphene/](https://turtlecute.org/graphene/)

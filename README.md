@@ -39,7 +39,7 @@ L'ordine in cui le posiziono, indicano una preferenza personale e mi riservo di 
 
 ### Attenzione!! Queste ROM vi permettono di avere Privacy, **non Anonimato**.
 
-Per il momento non mi dilungo su queste differenze, ma mi premeva favi capire che esistono varie soluzioni con vari livelli di "sicurezza".<br>
+Per il momento non mi dilungo su queste differenze, ma mi premeva farvi capire che esistono varie soluzioni con vari livelli di "sicurezza".<br>
 L'immagine che posto si seguito, l'ho trovata in rete. La posto solo per darvi un'idea, ma NON SONO RESPONSABILE DEI CONTENUTI e NON CONDIVIDO PIENAMENTE QUANTO SCRITTO.
 
 ![Alternative ROM](assets/Alternative_ROM.jpg)
@@ -100,7 +100,7 @@ Elenco queste app nel mio personale ordine di preferenza, che però non ne deter
    Fondamentalmente questa app è un semplice frontend di F-Droid, ma in più introduce un processo di verifica che garantisce l'integrità della app disponibili su F-Droid;
 3. **F-Droid** [:link: f-droid.org](https://f-droid.org/).
 
-Una volta installato uno app store alternativo (anche più di uno), la prima applicazione che vi suggerisco di installare è **Shelter** [:link: gitea.angry.im/PeterCxy/Shelter](https://gitea.angry.im/PeterCxy/Shelter) che ci permette di creare uno spazio secondario nell'userspace dell'utente primario che può funzionare simultaneamente.<br>
+Una volta installato un app store alternativo (anche più di uno), la prima applicazione che vi suggerisco di installare è **Shelter** [:link: gitea.angry.im/PeterCxy/Shelter](https://gitea.angry.im/PeterCxy/Shelter) che ci permette di creare uno spazio secondario nell'userspace dell'utente primario che può funzionare simultaneamente.<br>
 Per approfondimenti su Shelter, vi rimando a :link:[quest'altra mia guida](Shelter.md) e alla guida redatta da [Turtlecute](https://github.com/Turtlecute33) [:link: turtlecute.org/#shelter](https://turtlecute.org/android/#shelter).
 
 Una volta creato questo spazio, dovrete ricordarvi di separare le applicazioni Open da quelle Closed.<br>
@@ -131,7 +131,7 @@ Come abbiamo visto, non è possibile avere un telefono anonimo, ma vediamo ora s
 
 Per avere un telefono fuori dagli schemi, che non sia riconducibile a noi, questi sono i passaggi **minimi** da seguire:
 
-* il telefono andrà comprato in contati di persona, non online, non su piattaforme di vendita KYC perché dobbiamo evitare assolutamente qualsiasi legame tra noi e quel telefono.
+* il telefono andrà comprato in contanti di persona, non online, non su piattaforme di vendita KYC perché dobbiamo evitare assolutamente qualsiasi legame tra noi e quel telefono.
 * non potete utilizzare un vostro vecchio telefono in quanto il seriale del telefono (IMEI) è già stato associato ad una Sim intestata a voi o ad un vostro familiare;
 * una volta reperito un telefono adatto, dovrete installare la ROM privacy oriented possibilmente offline o in una location e con una connessione internet non riconducibile a voi;
 * dovrete procurarvi una Sim o una eSim anonima, acquistatola nel modo più anonimo possibile, quindi occhio a: pagamento, spedizione, email utilizzata e indirizzo IP (connessione internet) utilizzato per l'acquisto;

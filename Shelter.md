@@ -53,6 +53,6 @@ Nel caso discutiamone liberamente nel gruppo e se sarà il caso, aggiungerò inf
 Da suì puoi tornare alla :link[guida sui telefoni privati](README.md)
 
 #### Contatti 
-Per parlare con me di questa guida, unitevi al :link:[mio gruppo telegram](https://t.me/+GlEaD0WD53BmNGE0).
+Per parlare con me di questa guida, unitevi al gruppo Telegram :link:[ABC del Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).
 
 [![QR](assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) 
